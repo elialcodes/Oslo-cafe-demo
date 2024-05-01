@@ -1,4 +1,4 @@
-## Oslo café :cookie: :birthday: :bread: :coffee:
+## Oslo cafe :cookie: :birthday: :bread: :coffee:
 
 Responsive demo of a coffee shop website. The orderly design adapts correctly to all types of devices. The website is organized in header, main section, different articles and footer with the objective of achieving a functional website with a nice design.
 
@@ -10,7 +10,7 @@ Responsive demo of a coffee shop website. The orderly design adapts correctly to
 
 ## Tech Stack :computer: :books:
 
-HTML y CSS
+HTML, CSS
 
 
 ## Links 🔗 
